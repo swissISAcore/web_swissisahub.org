@@ -1,9 +1,17 @@
-# Swiss ISA Hub
+---
+layout: home
+title: Welcome
+---
+
+**Welcome the Swiss ISA Hub** 
+
+Disclaimer: Not (yet) officially affiliated with ISA (International Society of Automation).
 
 The **Swiss ISA Hub** is a newly founded local initiative bringing together professionals, students, and organizations with a shared interest in industrial automation and control systems (IACS) security, standards, and innovation.  
 Our focus is on promoting awareness, knowledge exchange, and adoption of the **ISA/IEC 62443** series and related best practices across Swiss industries such as energy, water, manufacturing, pharma, and broadcast.
 
 ## Our Mission
+
 As a community, we aim to:
 
 - Build a neutral platform for networking and collaboration.  
@@ -14,3 +22,9 @@ As a community, we aim to:
 ---
 
 Membership is open to anyone interested in advancing **operational technology (OT) security** and **industrial automation** in Switzerland.
+
+
+- 👉 [Become a member](./members)
+- 📅 Next events: tbd
+- ✉️ Contacts: [info@swissISAhub.ch](mailto:info@swissISAhub.org)
+
