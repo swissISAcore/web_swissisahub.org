@@ -1,3 +1,3 @@
 # web
 
-home to static web site
+source of swissISAhub.org
