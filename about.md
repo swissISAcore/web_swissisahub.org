@@ -4,7 +4,5 @@ title: About us
 permalink: /about/
 ---
 
-Our purpose is ...
-- Founded on: 9 September 2025
-- Headquarters: Bern, Switzerland
+Our purpose is collaborate with **ICS Security Switzerland** to establish an ISA section for Switzerland.
 
