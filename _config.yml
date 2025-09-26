@@ -5,7 +5,11 @@ baseurl: ""
 lang: en-GB
 timezone: Europe/Zurich
 
-theme: minima
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark 
+
 header_pages:
   - about.md
   - members.md
@@ -16,6 +20,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 permalink: /:categories/:title/
 markdown: kramdown
