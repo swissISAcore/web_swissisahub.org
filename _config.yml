@@ -7,9 +7,6 @@ timezone: Europe/Zurich
 
 remote_theme: jekyll/minima
 
-minima:
-  skin: dark 
-
 header_pages:
   - about.md
   - members.md
