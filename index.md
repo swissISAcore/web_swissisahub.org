@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to Swiss ISA Hub
+lang: en
+permalink: /
 ---
-
-**Welcome the Swiss ISA Hub**
 
 Disclaimer: Not (yet) officially affiliated with ISA (International Society of Automation).
 
@@ -17,7 +17,7 @@ As a community, we aim to:
 - Connect Switzerland with the broader ISA Europe and global ISA community.
 
 
-- 👉 [Become a member](./members)
+- 👉 [Become a member](./members) today
 - 📅 Next events: tbd
-- ✉️ Contacts: [info@swissISAhub.ch](mailto:info@swissISAhub.org)
+- ✉️ Contacts: [info [at] swissISAhub.ch](mailto:info@swissISAhub.org)
 
