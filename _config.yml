@@ -5,7 +5,7 @@ baseurl: ""
 lang: en-GB
 timezone: Europe/Zurich
 
-remote_theme: jekyll/minima
+theme: minima
 
 header_pages:
   - about.md
