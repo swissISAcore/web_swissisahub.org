@@ -10,7 +10,7 @@ permalink: /members/
 
 **How to become a member:**
 
-1. Fill out the [registration form](https://forms.gle/mdgwUpxVJRPGMR2XA)
+1. Fill out the <a href="[https://openai.com](https://forms.gle/mdgwUpxVJRPGMR2XA)" target="_blank">registration form</a>
 2. Transfer the annual membership fee.
 3. Welcome! 🎉
 
