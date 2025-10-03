@@ -6,7 +6,7 @@ permalink: /members/
 
 **Requirements:**
 
-* You hold ISA certifications (e.g., ISA/IEC 62443)
+* You hold ISA certifications (e.g. ISA/IEC 62443)
 
 **How to become a member:**
 
