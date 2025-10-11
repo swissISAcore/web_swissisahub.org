@@ -4,4 +4,4 @@ title: Contact
 permalink: /contacts/
 ---
 
-- Email: [info@swissISAhub.ch](mailto:info@swissISAhub.org)
+- Email: [info [at] swissISAhub.ch](mailto:info@swissISAhub.org)
