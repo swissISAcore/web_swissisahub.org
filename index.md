@@ -5,12 +5,6 @@ lang: en
 permalink: /
 ---
 
-<p align="center">
-  <img src="assets/logo_isa_hub.png" alt="ISA Hub Logo" width="50">
-</p>
-
----
-
 Disclaimer: Not (yet) officially affiliated with ISA (International Society of Automation).
 
 We want to establish a Swiss section within the global ISA [family of sections](https://www.isa.org/membership/geographic-sections).
