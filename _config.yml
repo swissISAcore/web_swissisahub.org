@@ -12,6 +12,9 @@ header_pages:
   - members.md
   - contacts.md
 
+logo: /assets/logo_isa_hub.png
+
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
