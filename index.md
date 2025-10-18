@@ -22,5 +22,4 @@ As a community, we aim to:
 
 - 👉 [Become a member](./members) today
 - 📅 Next events: tbd
-- ✉️ Contacts: [info [at] swissISAhub.ch](mailto:info@swissISAhub.org)
 
