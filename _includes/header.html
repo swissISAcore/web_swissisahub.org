@@ -6,7 +6,7 @@
         {{ site.title | escape }}
       </a>
 
-    <div style="display:flex;align-items:center;justify-content:flex-end;gap:200px;">
+    <div style="display:flex;align-items:center;justify-content:flex-end;gap:100px;">
 
       <nav class="site-nav" style="display:flex;gap:70px;">
         {% include navigation.html %}
@@ -16,7 +16,7 @@
       </style>
 
       <a href="{{ "/" | relative_url }}">
-        <img src="{{ "/assets/images/logo_isa_hub.png" | relative_url }}"
+        <img src="{{ "/assets/images/logo_isa_hub_transparent.png" | relative_url }}"
              alt="ISA Hub Logo"
              style="height:70px;">
       </a>
@@ -34,4 +34,7 @@
   .site-nav a:visited { color: #000 !important; }
   .site-nav a:hover,
   .site-nav a:focus   { color: #000 !important; text-decoration: underline; }
+  .site-title {
+    font-size: 1.11rem !important;
+  }
 </style>
